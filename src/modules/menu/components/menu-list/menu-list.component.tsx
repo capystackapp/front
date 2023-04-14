@@ -1,5 +1,5 @@
-import { FC } from 'react';
-import { MenuItem } from '@app/modules/menu/components/menu-item/menu-item.component';
+import { FC } from "react";
+import { MenuItem } from "../menu-item/menu-item.component";
 import { Pizza } from '../../types/pizza';
 
 interface MenuListProps {

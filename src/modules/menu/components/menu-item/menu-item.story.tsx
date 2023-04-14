@@ -1,4 +1,4 @@
-import { MenuItem } from '@app/modules/menu/components/menu-item/menu-item.component';
+import { MenuItem } from './menu-item.component';
 import type { Meta, StoryObj } from '@storybook/react';
 
 const meta: Meta<typeof MenuItem> = {

@@ -1,6 +1,6 @@
 import type { Meta, StoryObj } from '@storybook/react';
-import { MenuList } from '@app/modules/menu/components/menu-list/menu-list.component';
-import pizzaMenu from '@app/mocks/pizza.json';
+import { MenuList } from './menu-list.component';
+import pizzaMenu from '../../../../mocks/pizza.json';
 
 
 const meta: Meta<typeof MenuList> = {

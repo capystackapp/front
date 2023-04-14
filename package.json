@@ -65,6 +65,7 @@
     "prop-types": "^15.8.1",
     "react-app-alias": "^2.2.2",
     "storybook": "^7.0.4",
+    "tsconfig-paths-webpack-plugin": "^4.0.1",
     "webpack": "^5.79.0"
   }
 }
